@@ -1,0 +1,45 @@
+
+
+.main-container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: center;
+    
+    
+
+}
+
+.info {
+    font-family: Georgia, serif;
+    padding: 1em;
+    margin: .5em;
+    border-top: 2px solid black
+}
+
+.bio-info {
+    
+}
+
+.committee {
+    
+}
+
+.legislation {
+
+}
+
+ul {
+    list-style: none;
+    padding: .5em;
+    line-height: 2em;
+}
+
+.legis-info {
+    line-height: 1em;
+}
+
+h1 {
+    font-size: 30px;
+}
+
